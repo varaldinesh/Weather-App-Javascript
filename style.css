@@ -1,0 +1,26 @@
+body {
+  background-image: url("/images/sea.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* .input {
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-color: white;
+  outline: 0;
+  background: transparent;
+  color: white;
+  padding: 10px 25px;
+  height: 60px;
+  flex: 1;
+  margin-right: 16px;
+  font-size: 18px;
+}
+
+.button {
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+} */
